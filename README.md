@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasilis</h1>
 <h3 align="center">A passionate fullstack developer from Greece</h3>
 
-- 🔭 I’m currently working on Scientia
+- 🔭 I’m currently working at Scientia Consulting, as a Frontend Developer
 
 - 🌱 I’m currently learning **Django**
 
