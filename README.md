@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Mern**
-
 - 📫 How to reach me **vkord21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
